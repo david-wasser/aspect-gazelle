@@ -1,0 +1,27 @@
+language/js/pnpm/parser.go
+  s_704f011dc3deb2::t_b9f8f8f8178296 10,25-37,39-41,44-45,47-51,53-59,62,66-107,110-113,115-116,119-142
+language/js/pnpm/parser_test.go
+  s_704f011dc3deb2::t_4799c43d4e894b 4,7-8,13-27,440-548
+language/js/pnpm/parser_v5.go
+  s_704f011dc3deb2::t_92986613b7ae33 10,12-14,26,29-41
+language/js/pnpm/parser_v6.go
+  s_704f011dc3deb2::t_d260f879e86ee3 9,11-13,25,28-40
+language/js/pnpm/parser_v9.go
+  s_704f011dc3deb2::t_2d9d6859faeb7b 3,5,7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "c66ebf5555543de1d2561406d31f7a2a736338ee",
+  "prompts": {},
+  "sessions": {
+    "s_704f011dc3deb2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d3ca723e-3001-42b7-97f9-d6d56dc49b38",
+        "model": "claude-opus-5"
+      },
+      "human_author": "david-wasser <david.wasser@vanta.com>"
+    }
+  }
+}
